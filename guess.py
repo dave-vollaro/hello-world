@@ -1,5 +1,5 @@
 #!/bin/csh
-# guess_game
+# guessing_game
 # added test comment 7/10/20
 import random
 n=random.randint(1,99)
